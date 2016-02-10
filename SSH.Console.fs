@@ -1,7 +1,8 @@
 namespace SSH.Console
 
 (*
-    NOTE: We used a fork of Renci to fix a bug. I expect the bug has been fixed in Renci by now. If not let me know and I will make my Renci fork public
+    NOTE: We used a fork of Renci to fix a bug. I expect the bug has been fixed in Renci by now. If not let me know and I will make my Renci fork public. 
+          The bug either causes the connection not to work or the console to hang. You'll know if it's there.
 *)
 
 open System
